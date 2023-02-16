@@ -1,0 +1,32 @@
+2023-02-16 11:53:27,512 : INFO : test_e2e : Getting the titles
+2023-02-16 11:53:30,110 : INFO : test_e2e : Entering country name
+2023-02-16 11:53:35,884 : INFO : test_e2e : Getting the alert text for assertion
+2023-02-16 11:55:54,638 : INFO : test_e2e : Getting the titles
+2023-02-16 11:55:54,672 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:55:54,688 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:55:54,703 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:55:54,716 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:55:57,373 : INFO : test_e2e : Entering country name
+2023-02-16 11:56:03,309 : INFO : test_e2e : Getting the alert text for assertion
+2023-02-16 11:57:30,683 : INFO : test_e2e : Getting the titles
+2023-02-16 11:57:30,710 : INFO : test_e2e : iphone X
+2023-02-16 11:57:30,710 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:57:30,724 : INFO : test_e2e : Samsung Note 8
+2023-02-16 11:57:30,725 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:57:30,738 : INFO : test_e2e : Nokia Edge
+2023-02-16 11:57:30,738 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:57:30,783 : INFO : test_e2e : Blackberry
+2023-02-16 11:57:30,783 : INFO : test_e2e : %(productName)s This is the product
+2023-02-16 11:57:32,048 : INFO : test_e2e : Entering country name
+2023-02-16 11:57:38,416 : INFO : test_e2e : Getting the alert text for assertion
+2023-02-16 12:00:11,877 : INFO : test_e2e : Getting the titles
+2023-02-16 12:00:11,911 : INFO : test_e2e : iphone X
+2023-02-16 12:00:11,911 : INFO : test_e2e : iphone X This is the product 
+2023-02-16 12:00:11,927 : INFO : test_e2e : Samsung Note 8
+2023-02-16 12:00:11,927 : INFO : test_e2e : Samsung Note 8 This is the product 
+2023-02-16 12:00:11,940 : INFO : test_e2e : Nokia Edge
+2023-02-16 12:00:11,940 : INFO : test_e2e : Nokia Edge This is the product 
+2023-02-16 12:00:11,962 : INFO : test_e2e : Blackberry
+2023-02-16 12:00:11,962 : INFO : test_e2e : Blackberry This is the product 
+2023-02-16 12:00:14,603 : INFO : test_e2e : Entering country name
+2023-02-16 12:00:20,316 : INFO : test_e2e : Getting the alert text for assertion
